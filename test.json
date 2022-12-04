@@ -1,0 +1,20 @@
+[
+    {
+        "Name": "Ivan",
+        "Last name": "Ivanovych",
+        "Number": "102",
+        "City": "Kyiv"
+    },
+    {
+        "Name": "Nataly",
+        "Last name": "Raspopova",
+        "Number": "0976565022",
+        "City": "Dnipro"
+    },
+    {
+        "Name": "Kolya",
+        "Last name": "Kolya",
+        "Number": "102",
+        "City": "Dnipro"
+    }
+]
